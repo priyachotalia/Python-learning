@@ -1,6 +1,4 @@
-# COMP6200 Practicals 2020 S1
-
-COMP6200 is a unit named Data Science. 
+PYTHON LEARNING
 Week 1 is all out learning the basisc of python such as string manipulation, control structure and learning how to draw and plot in python using jupyter notebook. It gave me an over view os what python is and how it can be useful for data visulisation and analysis.  
 
 In Week 2, we practised writing markdown. Then we learned Python data structures which includes pandas module that supports data structures designed for handling the dataset. Three datasets have been imported in week 2 practical to conduct analysis on some basic functions.
